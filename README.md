@@ -1,6 +1,6 @@
-# Devgeam Tech Institute Website
+# Devgram Tech Institute Website
 
-Welcome to the official website of Devgeam Tech Institute!
+Welcome to the official website of Devgram Tech Institute!
 
 ## Overview
 
@@ -26,7 +26,7 @@ This website is designed and developed to showcase the offerings, courses, and i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Elijah-Ayanlere/devgeam-tech-institute.git
+   git clone https://github.com/Elijah-Ayanlere/devgram-tech-institute.git
    
 **Open the HTML File:**
 Open the index.html file in your preferred web browser.
@@ -43,4 +43,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Contact
 If you have any questions or concerns, please feel free to contact us at devgraminstitute@gmail.com.
 
-Thank you for visiting Devgeam Tech Institute! Explore, Learn, and Grow with us.
+Thank you for visiting Devgram Tech Institute! Explore, Learn, and Grow with us.
