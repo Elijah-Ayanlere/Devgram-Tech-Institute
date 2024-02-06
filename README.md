@@ -26,7 +26,7 @@ This website is designed and developed to showcase the offerings, courses, and i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/devgeam-tech-institute.git
+   git clone https://github.com/Elijah-Ayanlere/devgeam-tech-institute.git
    
 **Open the HTML File:**
 Open the index.html file in your preferred web browser.
@@ -41,6 +41,6 @@ We welcome contributions! If you find a bug, have a feature request, or want to 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
-If you have any questions or concerns, please feel free to contact us at info@devgeamtechinstitute.com.
+If you have any questions or concerns, please feel free to contact us at devgraminstitute@gmail.com.
 
 Thank you for visiting Devgeam Tech Institute! Explore, Learn, and Grow with us.
